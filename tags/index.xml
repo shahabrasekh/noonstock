@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on نون استاک</title>
-    <link>https://noonstock.ir/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on نون استاک</description>
     <generator>Hugo -- 0.148.2</generator>
     <language>fa-ir</language>
     <lastBuildDate>Thu, 18 Jul 2024 10:16:02 +0000</lastBuildDate>
-    <atom:link href="https://noonstock.ir/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>فر برقی</title>
-      <link>https://noonstock.ir/tags/%D9%81%D8%B1-%D8%A8%D8%B1%D9%82%DB%8C/</link>
+      <link>http://localhost:1313/tags/%D9%81%D8%B1-%D8%A8%D8%B1%D9%82%DB%8C/</link>
       <pubDate>Thu, 18 Jul 2024 10:16:02 +0000</pubDate>
-      <guid>https://noonstock.ir/tags/%D9%81%D8%B1-%D8%A8%D8%B1%D9%82%DB%8C/</guid>
+      <guid>http://localhost:1313/tags/%D9%81%D8%B1-%D8%A8%D8%B1%D9%82%DB%8C/</guid>
       <description></description>
     </item>
     <item>
       <title>خمیرترش</title>
-      <link>https://noonstock.ir/tags/%D8%AE%D9%85%DB%8C%D8%B1%D8%AA%D8%B1%D8%B4/</link>
+      <link>http://localhost:1313/tags/%D8%AE%D9%85%DB%8C%D8%B1%D8%AA%D8%B1%D8%B4/</link>
       <pubDate>Fri, 09 Feb 2024 07:24:33 +0000</pubDate>
-      <guid>https://noonstock.ir/tags/%D8%AE%D9%85%DB%8C%D8%B1%D8%AA%D8%B1%D8%B4/</guid>
+      <guid>http://localhost:1313/tags/%D8%AE%D9%85%DB%8C%D8%B1%D8%AA%D8%B1%D8%B4/</guid>
       <description></description>
     </item>
     <item>
       <title>سبد استراحت خمیر</title>
-      <link>https://noonstock.ir/tags/%D8%B3%D8%A8%D8%AF-%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AD%D8%AA-%D8%AE%D9%85%DB%8C%D8%B1/</link>
+      <link>http://localhost:1313/tags/%D8%B3%D8%A8%D8%AF-%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AD%D8%AA-%D8%AE%D9%85%DB%8C%D8%B1/</link>
       <pubDate>Fri, 09 Feb 2024 07:24:33 +0000</pubDate>
-      <guid>https://noonstock.ir/tags/%D8%B3%D8%A8%D8%AF-%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AD%D8%AA-%D8%AE%D9%85%DB%8C%D8%B1/</guid>
+      <guid>http://localhost:1313/tags/%D8%B3%D8%A8%D8%AF-%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AD%D8%AA-%D8%AE%D9%85%DB%8C%D8%B1/</guid>
       <description></description>
     </item>
     <item>
       <title>سحر کافه نان</title>
-      <link>https://noonstock.ir/tags/%D8%B3%D8%AD%D8%B1-%DA%A9%D8%A7%D9%81%D9%87-%D9%86%D8%A7%D9%86/</link>
+      <link>http://localhost:1313/tags/%D8%B3%D8%AD%D8%B1-%DA%A9%D8%A7%D9%81%D9%87-%D9%86%D8%A7%D9%86/</link>
       <pubDate>Fri, 09 Feb 2024 07:24:33 +0000</pubDate>
-      <guid>https://noonstock.ir/tags/%D8%B3%D8%AD%D8%B1-%DA%A9%D8%A7%D9%81%D9%87-%D9%86%D8%A7%D9%86/</guid>
+      <guid>http://localhost:1313/tags/%D8%B3%D8%AD%D8%B1-%DA%A9%D8%A7%D9%81%D9%87-%D9%86%D8%A7%D9%86/</guid>
       <description></description>
     </item>
     <item>
       <title>استارتر خمیرترش</title>
-      <link>https://noonstock.ir/tags/%D8%A7%D8%B3%D8%AA%D8%A7%D8%B1%D8%AA%D8%B1-%D8%AE%D9%85%DB%8C%D8%B1%D8%AA%D8%B1%D8%B4/</link>
+      <link>http://localhost:1313/tags/%D8%A7%D8%B3%D8%AA%D8%A7%D8%B1%D8%AA%D8%B1-%D8%AE%D9%85%DB%8C%D8%B1%D8%AA%D8%B1%D8%B4/</link>
       <pubDate>Sat, 28 Oct 2023 10:39:25 +0000</pubDate>
-      <guid>https://noonstock.ir/tags/%D8%A7%D8%B3%D8%AA%D8%A7%D8%B1%D8%AA%D8%B1-%D8%AE%D9%85%DB%8C%D8%B1%D8%AA%D8%B1%D8%B4/</guid>
+      <guid>http://localhost:1313/tags/%D8%A7%D8%B3%D8%AA%D8%A7%D8%B1%D8%AA%D8%B1-%D8%AE%D9%85%DB%8C%D8%B1%D8%AA%D8%B1%D8%B4/</guid>
       <description></description>
     </item>
     <item>
       <title>استارتر</title>
-      <link>https://noonstock.ir/tags/%D8%A7%D8%B3%D8%AA%D8%A7%D8%B1%D8%AA%D8%B1/</link>
+      <link>http://localhost:1313/tags/%D8%A7%D8%B3%D8%AA%D8%A7%D8%B1%D8%AA%D8%B1/</link>
       <pubDate>Sat, 23 Sep 2023 08:30:13 +0000</pubDate>
-      <guid>https://noonstock.ir/tags/%D8%A7%D8%B3%D8%AA%D8%A7%D8%B1%D8%AA%D8%B1/</guid>
+      <guid>http://localhost:1313/tags/%D8%A7%D8%B3%D8%AA%D8%A7%D8%B1%D8%AA%D8%B1/</guid>
       <description></description>
     </item>
     <item>
       <title>نان خمیرترش</title>
-      <link>https://noonstock.ir/tags/%D9%86%D8%A7%D9%86-%D8%AE%D9%85%DB%8C%D8%B1%D8%AA%D8%B1%D8%B4/</link>
+      <link>http://localhost:1313/tags/%D9%86%D8%A7%D9%86-%D8%AE%D9%85%DB%8C%D8%B1%D8%AA%D8%B1%D8%B4/</link>
       <pubDate>Wed, 23 Aug 2023 15:06:34 +0000</pubDate>
-      <guid>https://noonstock.ir/tags/%D9%86%D8%A7%D9%86-%D8%AE%D9%85%DB%8C%D8%B1%D8%AA%D8%B1%D8%B4/</guid>
+      <guid>http://localhost:1313/tags/%D9%86%D8%A7%D9%86-%D8%AE%D9%85%DB%8C%D8%B1%D8%AA%D8%B1%D8%B4/</guid>
       <description></description>
     </item>
     <item>
       <title>کف نان خمیرترش</title>
-      <link>https://noonstock.ir/tags/%DA%A9%D9%81-%D9%86%D8%A7%D9%86-%D8%AE%D9%85%DB%8C%D8%B1%D8%AA%D8%B1%D8%B4/</link>
+      <link>http://localhost:1313/tags/%DA%A9%D9%81-%D9%86%D8%A7%D9%86-%D8%AE%D9%85%DB%8C%D8%B1%D8%AA%D8%B1%D8%B4/</link>
       <pubDate>Sun, 16 Jul 2023 12:51:34 +0000</pubDate>
-      <guid>https://noonstock.ir/tags/%DA%A9%D9%81-%D9%86%D8%A7%D9%86-%D8%AE%D9%85%DB%8C%D8%B1%D8%AA%D8%B1%D8%B4/</guid>
+      <guid>http://localhost:1313/tags/%DA%A9%D9%81-%D9%86%D8%A7%D9%86-%D8%AE%D9%85%DB%8C%D8%B1%D8%AA%D8%B1%D8%B4/</guid>
       <description></description>
     </item>
   </channel>
